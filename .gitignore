@@ -1,4 +1,4 @@
 dataset/
 .DS_Store
-*.h5
+data_saved/
 .ipynb_checkpoints/
