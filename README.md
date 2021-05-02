@@ -1,9 +1,8 @@
-# CN
-## Convolutional Neural Networks on Image Classification
+# Convolutional Neural Networks on Image Classification
 
 Classify the bird species that appear on an image.
 
-### How it's done:
+## How it's done:
 
 - Preparation and analysis of dataset;
 - Training and validation of learning models, specifically Convolutional Neural Networks (CNN);
