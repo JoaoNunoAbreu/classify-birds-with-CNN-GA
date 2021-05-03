@@ -39,8 +39,7 @@ Selected Childs after crossover:
 Child 1 = [64, 2, 'sigmoid', 0.5, 0.001, 5.28730188369751, 0.3894104788010009]
 Child 2 = [256, 2, 'tanh', 0.5, 0.001, 3.5416400349140167, 0.2451716174534522]
 
-rate: 0.015004846315720743
-length: 5
+rate: 0.015004846315720743 < 0.3 -> Mutation Time!
 index: 4
 
 New Childs in Generation 1:
@@ -83,8 +82,7 @@ Selected Childs after crossover:
 Child 1 = [64, 2, 'sigmoid', 0.5, 0.001, 5.168866183757782, 0.4008868613280356]
 Child 2 = [256, 2, 'tanh', 0.5, 0.001, 3.6712683379650115, 0.22585602284409106]
 
-rate: 0.14755298740441547
-length: 5
+rate: 0.14755298740441547 < 0.3 -> Mutation Time!
 index: 0
 
 New Childs in Generation 2:
@@ -169,8 +167,7 @@ Selected Childs after crossover:
 Child 1 = [16, 2, 'tanh', 0.5, 0.001, 5.095706262588501, 0.40593749966472387]
 Child 2 = [256, 2, 'tanh', 0.5, 0.001, 2.662250417470932, 0.3997030736738816]
 
-rate: 0.23524477242234132
-length: 5
+rate: 0.23524477242234132 < 0.3 -> Mutation Time!
 index: 5
 
 New Childs in Generation 4:
@@ -213,8 +210,7 @@ Selected Childs after crossover:
 Child 1 = [16, 2, 'tanh', 0.5, 0.001, 2.6156194722652435, 0.40796875227242707]
 Child 2 = [16, 2, 'tanh', 0.5, 0.001, 2.563546588420868, 0.4163749985792674]
 
-rate: 0.11015831424059874
-length: 5
+rate: 0.11015831424059874 < 0.3 -> Mutation Time!
 index: 1
 
 New Childs in Generation 5:
@@ -257,8 +253,7 @@ Selected Childs after crossover:
 Child 1 = [16, 2, 'tanh', 0.5, 0.001, 5.040172629356384, 0.40830930343829097]
 Child 2 = [256, 2, 'tanh', 0.5, 0.001, 2.6074810576438905, 0.407553628932219]
 
-rate: 0.08548794253061287
-length: 5
+rate: 0.08548794253061287 < 0.3 -> Mutation Time!
 index: 5
 
 New Childs in Generation 6:
@@ -427,8 +422,7 @@ Selected Childs after crossover:
 Child 1 = [16, 2, 'tanh', 0.5, 0.001, 2.6004033851623536, 0.409781250001397]
 Child 2 = [16, 2, 'tanh', 0.5, 0.001, 2.613929785490036, 0.40974999997066336]
 
-rate: 0.02105898445900245
-length: 5
+rate: 0.02105898445900245 < 0.3 -> Mutation Time!
 index: 4
 
 New Childs in Generation 10:
