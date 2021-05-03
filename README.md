@@ -2,6 +2,10 @@
 
 Classify the bird species that appear on an image.
 
+## Dataset used
+
+- [265 Bird Species](https://www.kaggle.com/gpiosenka/100-bird-species)
+
 ## How it's done:
 
 - Preparation and analysis of dataset;
